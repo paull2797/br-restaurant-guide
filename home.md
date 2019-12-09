@@ -2,5 +2,6 @@
 ## Home
 ---
 What kind of food are you hungry for?
-## [American](american/american.md)
-## Asian
+## [American](american/american.md) 
+## Asian 
+## European
